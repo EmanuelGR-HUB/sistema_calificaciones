@@ -1,4 +1,4 @@
-UMBRAL_APROBADO = 75
+UMBRAL_APROBADO = 70
 
 def calcular_promedio(notas: list) -> dict:
     if not notas:
